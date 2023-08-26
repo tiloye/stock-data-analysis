@@ -1,8 +1,8 @@
-yfinance==0.2.20
-pandas==2.0.2
-dash==2.10.2
-dash-bootstrap-components==1.4.2
-empyrical-reloaded==0.5.9
-numpy==1.25.0
-gunicorn==21.2.0
-plotly==5.15.0
+yfinance
+pandas
+dash
+dash-bootstrap-components
+empyrical-reloaded
+numpy
+gunicorn
+plotly
