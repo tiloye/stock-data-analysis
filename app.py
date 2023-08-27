@@ -43,8 +43,8 @@ app.layout = dbc.Container([
                     # Dropdown for selecting stocks
                     dcc.Dropdown(
                         id='stocks-dropdown',
-                        options = ["AAPL", "QQQ"],
-                        # value=["AAPL", "QQQ"],
+                        options=["AAPL", "QQQ"],
+                        value=["AAPL", "QQQ"],
                         placeholder="Search stock symbol",
                         multi=True,
                         className="mb-2"
