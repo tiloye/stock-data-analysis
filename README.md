@@ -11,7 +11,7 @@ The main objective was to compare the statistical metrics of each asset, build a
 * The longest drawdown period, lasting 566 days, was experienced by Tesla.
 * The equal weight porfolio had a gross return of about 490%, however it was more volatile when compared to the Nasdaq-100 index.
 
-I used [Dash]("https://plotly.com/dash/"), a Python framework for creating data apps, to create a stock comparison dashboard so that it would be easier to compare the metrics of various stocks. The app uses a list of SP500 stocks obtained from [wikipedia]("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"), and each stock's historical data is downloaded from Yahoo Finance for metrics computation and visualisation.
+I used [Dash](https://plotly.com/dash/), a Python framework for creating data apps, to create a stock comparison dashboard so that it would be easier to compare the metrics of various stocks. The app uses a list of SP500 stocks obtained from [wikipedia]("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"), and each stock's historical data is downloaded from Yahoo Finance for metrics computation and visualisation.
 
 The dashboard consists of 4 main components:
 1. A dropdown menu to search or select from a list of stock symbols.
@@ -19,4 +19,4 @@ The dashboard consists of 4 main components:
 3. A collection of radio buttons to choose different plot options.
 4. A table to show a summary of the computed metrics for selected stocks.
 
-The app is currently hosted on [render]("render.com"), and it can be accessed via this [link]("https://stock-comparison-dashboard.onrender.com").
+The app is currently hosted on [render](render.com), and it can be accessed via [link](https://stock-comparison-dashboard.onrender.com).
