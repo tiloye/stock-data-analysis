@@ -19,4 +19,4 @@ The dashboard consists of 4 main components:
 3. A collection of radio buttons to choose different plot options.
 4. A table to show a summary of the computed metrics for selected stocks.
 
-The app is currently hosted on [render](render.com), and it can be accessed via [link](https://stock-comparison-dashboard.onrender.com).
+The app is currently hosted on [render](render.com), and it can be accessed via this [link](https://stock-comparison-dashboard.onrender.com).
